@@ -10,9 +10,11 @@ Resnet50 has 50 layers while, resnet 152 has 152 layers. Both the models scored 
 
 Retinanet model with resnet50 backbone network scored <b>0.0872 mAP</b> on detection of car and <b>0.048 mAP on detection of smoke</b> on the Indianapolis racing car images while, the model with resnet152 backbone network scored <b>0.0847 mAP on detection of car and 0.0565 mAP on detection of smoke</b> on the images. RetinaNet model with resnet50 did well on dectection of cars while resnet152 model  performed well in detection of smoke on the test images. Since detection of smoke is more a fine grained problem, addition of more layers with resnet152 provided better detection while model overfitten on detection of cars.
 
-Results on car indicated that the model overfitted on the training data. ![screenshot](/Users/mchivuku/Library/Group Containers/Q79WDW8YH9.com.evernote.Evernote/Evernote/quick-note/64597028-personal-www.evernote.com/quick-note-tql5Kz/attachment--746aSk/screenshot.png)
+Results on car indicated that the model overfitted on the training data. 
 
 
 
+ ![](/Users/mchivuku/Desktop/results.png)
 
+ 
 
