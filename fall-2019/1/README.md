@@ -14,7 +14,12 @@ Results on car indicated that the model overfitted on the training data.
 
 
 
- ![](/Users/mchivuku/Desktop/results.jpg)
+ ![](https://raw.githubusercontent.com/mchivuku/E599-high-performance-big-data/master/fall-2019/1/results.png)
 
  
 
+
+
+```
+
+```
