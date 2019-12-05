@@ -48,13 +48,13 @@ The network can be trained using the `train.py` script. Currently, two dataloade
 
 Model 1 
 
-```python
+```bash
 python3 train.py --dataset csv --csv_train input_data/indycar_train.csv --csv_val input_data/indycar_test.csv --csv_classes input_data/classes.csv --save_path models/model1  --depth 50
 ```
 
 Model 2
 
-```python
+```bash
 python3 train.py --dataset csv --csv_train input_data/indycar_train.csv --csv_val input_data/indycar_test.csv --csv_classes input_data/classes.csv --save_path models/model2  --depth 152
 ```
 
