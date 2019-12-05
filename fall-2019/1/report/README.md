@@ -1,1 +1,1 @@
-Describe here who did what in the project or report.
+I worked on this project alone, it was not a group project.
