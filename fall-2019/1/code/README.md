@@ -60,7 +60,7 @@ python3 train.py --dataset csv --csv_train input_data/indycar_train.csv --csv_va
 
 ## Testing
 
-```python
+```bash
 ## Model 1
 python3 visualize.py --dataset csv --csv_classes input_data/classes.csv --csv_val input_data/indycar_test.csv --model models/model1/csv_retinanet_99.pt --save_path output_path/model1/
 

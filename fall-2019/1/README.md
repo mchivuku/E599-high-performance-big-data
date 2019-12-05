@@ -12,3 +12,7 @@ Retinanet model with resnet50 backbone network scored <b>0.0872 mAP</b> on detec
 
 Results on car indicated that the model overfitted on the training data. ![screenshot](/Users/mchivuku/Library/Group Containers/Q79WDW8YH9.com.evernote.Evernote/Evernote/quick-note/64597028-personal-www.evernote.com/quick-note-tql5Kz/attachment--746aSk/screenshot.png)
 
+
+
+
+
