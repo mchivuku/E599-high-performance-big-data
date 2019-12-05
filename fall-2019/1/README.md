@@ -14,7 +14,7 @@ Results on car indicated that the model overfitted on the training data.
 
 
 
- ![](/Users/mchivuku/Desktop/results.png)
+ ![](/Users/mchivuku/Desktop/results.jpg)
 
  
 
